@@ -3,7 +3,7 @@
     "name": "vat/module",
     "description": "This module is used for removing VAT field during checkout process'.",
     "type": "magento-module",
-    "homepage": "https://github.com/vmbl/born",
+    "homepage": "https://github.com/vmbl/custom",
     "authors": [
         {
             "name": "Born",
